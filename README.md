@@ -26,3 +26,22 @@ The following are some potential objectives that could be included in a synopsis
 7.To adhere to best practices for secure programming, such as avoiding buffer overflow vulnerabilities and following secure coding guidelines. 
 
 
+# *SOFTWARE REQUIREMENTS :-*
+
+1. Operating System Compatibility
+
+The system should be compatible with major operating systems including Windows, macOS, and Linux. This ensures the software can be used by a wide range of users with different OS preferences.
+
+2. C++ Compiler and Development Environment
+
+A modern C++ compiler supporting C++11 or later standards, such as GCC (GNU Compiler Collection), Clang, or Microsoft Visual C++ (MSVC). Additionally, an Integrated Development Environment (IDE) like Visual Studio, Code::Blocks, or CLion can be used to facilitate the development process.
+
+3. Cryptographic Library
+
+Incorporation of a robust cryptographic library such as OpenSSL, Crypto++, or libsodium to handle encryption and decryption tasks. This library must be properly installed and configured within the development environment.
+
+4. File Handling Library
+
+Utilization of standard C++ libraries for file handling (e.g., <fstream>, <iostream>, <filesystem>) to manage reading from and writing to files securely. Ensure that the filesystem library is available and supported on the chosen operating system.
+
+
